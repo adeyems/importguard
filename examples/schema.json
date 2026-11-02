@@ -1,0 +1,1 @@
+{"version":1,"fields":{"id":{"type":"integer","required":true},"name":{"type":"string","required":true},"active":{"type":"boolean","required":false}}}

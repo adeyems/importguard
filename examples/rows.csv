@@ -1,0 +1,4 @@
+id,name,active
+1,Synthetic item,true
+wrong,Another item,false
+3,,true
